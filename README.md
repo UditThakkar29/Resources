@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=bwmc76AL0tk
 
 http://surl.li/fpsaz
 
-### Scope 
+## Scope 
+
 https://www.rubyguides.com/2019/10/scopes-in-ruby-on-rails/ 
 
