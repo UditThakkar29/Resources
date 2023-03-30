@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=bwmc76AL0tk
 ## Removing an existing association
 
 http://surl.li/fpsaz
+
+### Scope 
+https://www.rubyguides.com/2019/10/scopes-in-ruby-on-rails/ 
+
