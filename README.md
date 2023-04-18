@@ -21,6 +21,7 @@ https://www.rubyguides.com/2019/10/scopes-in-ruby-on-rails/
 sudo service redis-server status  
 sudo systemctl start redis-server  
 sudo systemctl stop redis-server  
+sudo systemctl enable redis-server.service  
 
 ## Elastic Search
 sudo systemctl start elasticsearch  
