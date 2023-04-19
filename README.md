@@ -26,3 +26,6 @@ sudo systemctl enable redis-server.service
 ## Elastic Search
 sudo systemctl start elasticsearch  
 sudo systemctl enable elasticsearch  
+
+
+/home/gammastack/.rvm/gems/ruby-2.6.6@luxola/gems
